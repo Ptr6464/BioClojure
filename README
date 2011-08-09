@@ -41,3 +41,4 @@ Read sequence file Si and report the following:
 * Same as single clone analysis but reads an array of 96 ids from A to H and 1 through 12
 * Also include plate
 * Files will be named plate id_letter_number
+
